@@ -228,7 +228,12 @@ public class ExportExcel<T> {
 
 	}
 
+	static {
+		Log4jPrintStream.redirectSystemOut();
+	}
+
 	public static void main(String[] args) {
+
 		ExportExcel<Result> ex = new ExportExcel<Result>();
 		String[] headers = { "hitID", "type" };
 		List<Result> dataset = new ArrayList<Result>();
@@ -244,7 +249,8 @@ public class ExportExcel<T> {
 						"C://Users//ZZY//Desktop//test.xls");
 				ex.exportExcel(headers, dataset, out);
 				out.close();
-				if (resultList.size()>0&&resultList.get(0).split(",")[0].equals("exit"))
+				if (resultList.size() > 0
+						&& resultList.get(0).split(",")[0].equals("exit"))
 					break;
 			}
 			JOptionPane.showMessageDialog(null, "导出成功!");
