@@ -1,0 +1,444 @@
+[CrazyAppium] 2017/03/21 15:54:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 15:55:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 15:59:21  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:45  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:47  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:47  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:48  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:48  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:49  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:49  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:50  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:50  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:51  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:51  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:53  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:53  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:54  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:54  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:55  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:55  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:56  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:56  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:05:57  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:05:57  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:05:57  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:05:57  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:06:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:06:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:06:34  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:06:34  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:06:35  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:06:35  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:06:36  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:06:36  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:06:37  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:06:37  DEBUG main com.zzy.appium.server.Port:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 16:06:37  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4491 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:06:37  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:18:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:18:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:18:34  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:18:35  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:18:35  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:18:36  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:18:36  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:18:37  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:18:37  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:18:38  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:18:38  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:18:38  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:18:38  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:26:15  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:26:16  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:26:16  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:26:17  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:26:17  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:26:18  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:26:18  DEBUG main com.zzy.appium.server.Port:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 16:26:18  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4491 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:26:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:27:15  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:16  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:27:16  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:17  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:27:17  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:18  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:27:18  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:27:18  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:27:18  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:27:42  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:43  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:27:43  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:44  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:27:44  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:45  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:27:45  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:27:46  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:27:46  DEBUG main com.zzy.appium.server.Port:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 16:27:46  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4491 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:27:47  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4723 Succeed  
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4723 port has been occupied 
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4724 Succeed  
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4724 port has been occupied 
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:34:54  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:34:55  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4724 Succeed  
+[CrazyAppium] 2017/03/21 16:34:55  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4724 port has been occupied 
+[CrazyAppium] 2017/03/21 16:34:55  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:34:55  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:34:55  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:34:55  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:34:55  DEBUG main com.zzy.appium.server.Port:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:34:56  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:34:56  DEBUG main com.zzy.appium.server.Port:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:34:57  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:34:57  DEBUG main com.zzy.appium.server.Port:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:34:58  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:34:58  DEBUG main com.zzy.appium.server.Port:23 - main4725 port has been occupied 
+[CrazyAppium] 2017/03/21 16:34:58  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4725 -bp 4725 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:34:58  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4723 Succeed  
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4723 port has been occupied 
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4724 Succeed  
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4724 port has been occupied 
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4724 Succeed  
+[CrazyAppium] 2017/03/21 16:35:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4724 port has been occupied 
+[CrazyAppium] 2017/03/21 16:35:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:35:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:35:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:35:31  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:35:31  DEBUG main com.zzy.appium.server.Port:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:35:32  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:35:32  DEBUG main com.zzy.appium.server.Port:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:35:33  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:35:33  DEBUG main com.zzy.appium.server.Port:23 - main4725 port unoccupied 
+[CrazyAppium] 2017/03/21 16:35:34  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4725 Succeed  
+[CrazyAppium] 2017/03/21 16:35:34  DEBUG main com.zzy.appium.server.Port:23 - main4725 port has been occupied 
+[CrazyAppium] 2017/03/21 16:35:34  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4725 -bp 4725 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:35:34  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:45  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:46  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:46  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:47  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:47  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:48  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:48  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:49  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:49  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:50  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:50  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:42:52  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:42:52  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:42:52  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:42:52  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:50:13  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:50:14  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:50:14  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:50:16  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:50:16  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 16:50:17  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:50:17  DEBUG main com.zzy.appium.server.Port:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 16:50:17  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4491 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:50:17  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:51:36  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:51:37  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:51:37  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:51:38  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:51:38  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:51:39  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:51:39  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:51:39  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:51:39  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4492 Succeed  
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4492 port unoccupied 
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:52:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:52:34  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4492 Succeed  
+[CrazyAppium] 2017/03/21 16:52:34  DEBUG main com.zzy.appium.server.Port:23 - main4492 port unoccupied 
+[CrazyAppium] 2017/03/21 16:52:35  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4492 Succeed  
+[CrazyAppium] 2017/03/21 16:52:35  DEBUG main com.zzy.appium.server.Port:23 - main4492 port unoccupied 
+[CrazyAppium] 2017/03/21 16:52:36  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4492 Succeed  
+[CrazyAppium] 2017/03/21 16:52:36  DEBUG main com.zzy.appium.server.Port:23 - main4492 port unoccupied 
+[CrazyAppium] 2017/03/21 16:52:37  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4492 Succeed  
+[CrazyAppium] 2017/03/21 16:52:37  DEBUG main com.zzy.appium.server.Port:23 - main4492 port has been occupied 
+[CrazyAppium] 2017/03/21 16:52:37  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4492 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:52:37  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:55:19  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:55:20  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:55:20  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:55:22  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:55:22  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:55:23  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:55:23  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 16:55:24  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 16:55:24  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 16:55:24  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 16:55:24  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:26:31  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:26:32  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:26:32  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:26:33  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:26:33  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:26:34  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:26:34  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:26:36  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:26:36  DEBUG main com.zzy.appium.server.Port:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 17:26:36  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4491 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 17:26:36  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port has been occupied 
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2234 Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2234 port unoccupied 
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:47:14  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:47:15  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:47:15  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:47:16  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:47:16  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:47:17  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:47:17  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:47:18  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:47:18  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 17:47:18  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2234 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 17:47:18  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port has been occupied 
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2234 Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2234 port has been occupied 
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2235 Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2235 port unoccupied 
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:49:4  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:49:5  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:49:5  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:49:6  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:49:6  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:49:7  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:49:7  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 17:49:9  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:49:9  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 17:49:9  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2235 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 17:49:9  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port has been occupied 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2234 Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2234 port has been occupied 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2235 Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2235 port has been occupied 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2236 Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2236 port unoccupied 
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:51:33  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:51:35  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:51:35  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:51:36  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:51:36  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:51:37  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:51:37  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 17:51:38  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 17:51:38  DEBUG main com.zzy.appium.server.Port:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 17:51:38  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4491 -bp 2236 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 17:51:38  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 19:09:0  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:1  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 19:09:1  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:2  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 19:09:2  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:4  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 19:09:4  DEBUG main com.zzy.appium.server.Port:23 - main4490 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:5  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 19:09:5  DEBUG main com.zzy.appium.server.Port:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 19:09:5  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4490 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 19:09:5  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainexecute  command taskkill -F -PID node.exe Succeed 
+[CrazyAppium] 2017/03/21 19:09:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainkill server node  Succeed 
+[CrazyAppium] 2017/03/21 19:09:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4490 Succeed  
+[CrazyAppium] 2017/03/21 19:09:30  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4490 port has been occupied 
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command netstat -ano|findstr 2233 Succeed  
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - main2233 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 19:09:31  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:32  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 19:09:32  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:33  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 19:09:33  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:34  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 19:09:34  DEBUG main com.zzy.appium.server.Port:23 - main4491 port unoccupied 
+[CrazyAppium] 2017/03/21 19:09:35  DEBUG main com.zzy.appium.server.Port:23 - mainget result of command after execute dos command netstat -ano|findstr 4491 Succeed  
+[CrazyAppium] 2017/03/21 19:09:35  DEBUG main com.zzy.appium.server.Port:23 - main4491 port has been occupied 
+[CrazyAppium] 2017/03/21 19:09:35  DEBUG main com.zzy.appium.server.Port:23 - mainexecute  command appium -p 4491 -bp 2233 -U NX512J>D:\Android\workspace\auto_film/logs/NX512J0.log Succeed 
+[CrazyAppium] 2017/03/21 19:09:35  DEBUG main com.zzy.appium.utils.DosCmd:23 - mainget result of command after execute dos command adb devices Succeed  

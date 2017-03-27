@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="1" name="Failed suite [Suite]" parallel="tests">
+  <parameter name="port" value="4491"/>
+  <parameter name="udid" value="NX512J"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test name="NX512J">
+    <parameter name="port" value="4491"/>
+    <parameter name="udid" value="NX512J"/>
+    <classes>
+      <class name="com.zzy.appium.test.HangMei"/>
+    </classes>
+  </test> <!-- NX512J -->
+  <test name="NX512J(failed)" parallel="tests">
+    <parameter name="port" value="4491"/>
+    <parameter name="udid" value="NX512J"/>
+    <classes>
+      <class name="com.zzy.appium.test.HangMei">
+        <methods>
+          <include name="beforeClass"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- com.zzy.appium.test.HangMei -->
+    </classes>
+  </test> <!-- NX512J(failed) -->
+</suite> <!-- Failed suite [Suite] -->
